@@ -1,7 +1,0 @@
-<?php
-    $nilai        =array(1,2,3,4,5);
-    $jml_nilai    =array_sum($nilai);
-    
-    echo $jml_nilai;
-   
-?>
